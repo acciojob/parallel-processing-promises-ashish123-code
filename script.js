@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const images = [
-    { url: "https://picsum.photos/id/238/200/300" },
-    { url: "https://picsum.photos/id/238/200/300" },
+    { url: "https://picsum.photos/id/236/200/300" },
+    { url: "https://picsum.photos/id/237/200/300" },
     { url: "https://picsum.photos/id/238/200/300" }
   ];
 
