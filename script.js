@@ -2,7 +2,7 @@
 const images = [
     { url: "https://picsum.photos/id/238/200/300" },
     { url: "https://picsum.photos/id/237/200/300" },
-    { url: "https://picsum.photos/id/238/200/300" }
+    { url: "https://picsum.photos/id/237/200/300" }
   ];
 
   const downloadImages = async () => {
